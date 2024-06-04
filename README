@@ -1,4 +1,4 @@
-# pdf-merger
+## pdf-merger
 
 Pdf_merger merges individual PDFs into one document. 
 Copy the desired documents into the pdf_merger folder, change the name of the pdfs in the code and run the code.
